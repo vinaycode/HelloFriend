@@ -1,2 +1,3 @@
 # HelloFriend
-Welcome to all
+Welcome to a new friend
+Hello Friend
